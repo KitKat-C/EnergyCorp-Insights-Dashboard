@@ -55,12 +55,7 @@ Each chart was chosen to best reflect the underlying structure and trends in the
 
 Watch the full walkthrough on YouTube, where I explain the dashboard layout, data sources, and chart design choices:
 
-📺 [Click to Watch](/)
+📺 [Click to Watch](https://youtu.be/PP44i7Z0AcY)
 
 ---
 
-## 🚀 How to Run the Project
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/energy-dashboard.git
